@@ -1,0 +1,72 @@
+  141  nano basicRandomFiveThreeDigitMinMax.sh 
+  142  ./basicRandomFiveThreeDigitMinMax.sh 
+  143  ./basicRandomFiveThreeDigitMinMax.sh 
+  144  ./basicRandomFiveThreeDigitMinMax.sh 
+  145  ./basicRandomFiveThreeDigitMinMax.sh 
+  146  ./basicRandomFiveThreeDigitMinMax.sh 
+  147  ./basicRandomFiveThreeDigitMinMax.sh 
+  148  ./basicRandomFiveThreeDigitMinMax.sh 
+  149  ./basicRandomFiveThreeDigitMinMax.sh 
+  150  ./basicRandomFiveThreeDigitMinMax.sh 
+  151  ./basicRandomFiveThreeDigitMinMax.sh 
+  152  nano basicRandomFiveThreeDigitMinMax.sh 
+  153  nano basicRandomFiveThreeDigitMinMax.sh 
+  154  ./basicRandomFiveThreeDigitMinMax.sh 
+  155  nano basicRandomFiveThreeDigitMinMax.sh 
+  156  ./basicRandomFiveThreeDigitMinMax.sh 
+  157  nano basicRandomFiveThreeDigitMinMax.sh 
+  158  nano basicRandomFiveThreeDigitMinMax.sh 
+  159  nano basicRandomFiveThreeDigitMinMax.sh 
+  510  git init
+  512  git config --global user.email "sohailshaikh1432.ss@gmail.com"
+  513  git config --global user.name "sohailshaikh1432"
+  514  git config
+  520  nano .gitignore
+  523  nano .gitignore
+  525  history | grep git > gitcmd.txt
+  529  git status
+  530  git add gitmd.txt
+  531  git add gitcmd.txt
+  532  git add gitcmd.txt -f
+  533  git status
+  534  git commit -m "adding gitcmd"
+  535  git remote add origin https://github.com/sohailshaikh1432/Batch065.git
+  536  git status
+  537  git push -u origin master
+  538  nano .gitignore
+  540  nano .gitignore
+  541  git add test.java
+  542  git status
+  543  git commit -m "First commit for test.java"
+  544  git remote add origin https://github.com/sohailshaikh1432/Batch065.git
+  545  git push -u origin master
+  546  git pull
+  547  git push --help
+  548  git push -u origin master
+  550  git init
+  552  git clone https://github.com/sohailshaikh1432/Batch065New.git
+  558  git add .
+  559  git status
+  560  git commit -m "First commit"
+  561  git push -u origin master
+  565  git add .
+  566  git push -u origin master
+  567  git add .Folder1/
+  569  git add .Folder1
+  570  git add Folder1/
+  571  git status
+  572  git push -u origin master
+  573  git commit -m "Second commit"
+  574  git status
+  575  git push -u origin master
+  582  git add Folder/
+  583  git status
+  584  git commit -m "Second Commit"
+  585  git push -u origin master
+  598  git add Folder1/
+  599  git status
+  600  git commit -m "Second Commit"
+  601  git push -u origin master
+  602  hostory | grep git
+  603  history | grep git
+  604  history | grep git > githubCommand.txt
